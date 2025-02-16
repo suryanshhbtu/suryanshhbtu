@@ -1,37 +1,72 @@
-<h1 align="center">Hi 👋, I'm Suryansh Srivastava</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+# Hi there, I'm Suryansh Srivastava! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanshhbtu&label=Profile%20views&color=0e75b6&style=flat" alt="suryanshhbtu" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryansh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suryansh-srivastava-hbtu/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Suryansh-green?style=flat&logo=web)](https://portfolio-next-js-rust.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-suryanshhbtu@gmail.com-red?style=flat&logo=gmail)](mailto:suryanshhbtu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshhbtu/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suryanshhbtu)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/suryanshhbtu/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryanshhbtu" alt="suryanshhbtu" /></a> </p>
+## 🚀 About Me
+👨‍💻 **Software Engineer** at NatWest Group | Passionate about **Java, Spring Boot, ReactJS, NextJS, MongoDB** & Full Stack Development.
 
-- 🌱 I’m currently learning **Machine Learning**
+🔥 Solved **1200+ questions on GeeksforGeeks** & **1100+ on LeetCode**, maintaining a streak of **750+ days**. 
 
-- 👨‍💻 All of my projects are available at [https://suryanshportfolio.azurewebsites.net/](https://suryanshportfolio.azurewebsites.net/)
+💡 **Fun Fact:** I can solve LeetCode problems faster than I can decide what to eat! 😆
 
-- 💬 Ask me about **Java, Springboot, Spring, ReactJS, NextJS, Express, MongoDB, MYSQL...**
+---
 
-- 📫 How to reach me **suryanshhbtu@gmail.con**
+## 🛠 Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zDaj1InkvHlzjuxOLJslY0O0YP5eQHpx/view](https://drive.google.com/file/d/1zDaj1InkvHlzjuxOLJslY0O0YP5eQHpx/view)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- ⚡ Fun fact **Sab Moh Maya Hai**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suryanshhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryanshhbtu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/suryanshhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suryanshhbtu" height="30" width="40" /></a>
-<a href="https://instagram.com/suryansh_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryansh_sri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suryanshhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryanshhbtu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/suryanshhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suryanshhbtu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suryanshhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryanshhbtu" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshhbtu&show_icons=true&locale=en&layout=compact" alt="suryanshhbtu" /></p>
+![Suryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryanshhbtu&show_icons=true&theme=react)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanshhbtu&show_icons=true&locale=en" alt="suryanshhbtu" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=suryanshhbtu&theme=react)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshhbtu&" alt="suryanshhbtu" /></p>
+---
+
+## 🏆 Badges And Trophies
+<div style="display: flex; gap: 10px;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg1k.png" width="80">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="80">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="80">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-lg.png" width="80">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="80">
+  <img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual.png" width="80">  
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=suryanshhbtu&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Activity Graph
+![Suryansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanshhbtu&theme=github)
+
+
+---
+
+## 📬 Connect with Me
+📩 Email: [suryanshhbtu@gmail.com](mailto:suryanshhbtu@gmail.com)
+📌 LinkedIn: [Suryansh Srivastava](https://www.linkedin.com/in/suryansh-srivastava-hbtu/)
+🌐 Portfolio: [My Portfolio](https://portfolio-next-js-rust.vercel.app/)
